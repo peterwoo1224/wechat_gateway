@@ -1,0 +1,17 @@
+
+{
+    "weixin": [
+        {
+        "CorpId": "XXXXX",
+        "AgentId": "1000002",
+        "Secret": "XXXXXX"
+        }
+    ],
+    "users": [
+        {
+        "吴XX": "WuXX",
+        "章XX": "ZhangXX",
+        "周XX": "ZhouXX"
+        }
+    ]
+}
